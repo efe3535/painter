@@ -7,6 +7,7 @@ i like playing with stupid things such as js canvases, and this is the first thi
 
 ## how-to-control
 hjkl: `vim-lover vay`
+
 wasd: `gamer way`
 
 
