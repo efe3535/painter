@@ -13,3 +13,6 @@ wasd: `gamer way`
 
 ## opt-dep if you want to run as a simple server
 install optional dependency `http-server`, to run `npm start`
+
+## screenshot
+![Screenshot](.github/screenshot.png)
