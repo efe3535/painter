@@ -1,4 +1,4 @@
-# painter -> vim lover's distractful-reliever!
+# painter -> vim lover's distracting-reliever!
 
 
 ## why does this freaking exist
